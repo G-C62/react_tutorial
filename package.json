@@ -23,7 +23,7 @@
     "css-loader": "^3.1.0",
     "include-media": "^1.4.9",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "open-color": "^1.7.0",
     "postcss-flexbugs-fixes": "^4.1.0",
     "postcss-loader": "^3.0.0",
